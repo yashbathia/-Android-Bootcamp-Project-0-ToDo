@@ -6,3 +6,6 @@ This Simple ToDo app can do the following:<br>
 
 Extension of UI: <br>
 1. Add Item button made transparent
+
+Video Walkthrough
+![Video Walkthrough](http://i.giphy.com/yoJC2OWyKCFJbjDAJO.gif)
